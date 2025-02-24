@@ -1,4 +1,5 @@
-# B581 Final Project                        Hardik Mahesh Kotangale                                           hkotanga
+# Crystal-Cavern-Exploration
+![image](https://github.com/user-attachments/assets/baee5c0c-d49d-4c68-b0f0-aac77027036c)
 
 ## 1. Unity Environment
 - **Version:** Unity 2022.3.36f1 LTS  
