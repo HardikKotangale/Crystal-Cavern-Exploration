@@ -7,9 +7,9 @@
 
 ---
 
-## 2. C# Files Included in this Problem Set
+## 2. C# Files
 
-### **Task A: 3D Scene - Models and Surfaces**
+### **3D Scene - Models and Surfaces**
 - **CrystalClusterGenerator.cs**  
   Generates a procedurally defined crystal cluster, creating algorithmically calculated prismatic structures with variable heights and orientations. Includes vertex normals and material application.
 
@@ -18,7 +18,7 @@
 
 ---
 
-### **Task B: Interaction - User and Object-Object Interaction**
+### **Interaction - User and Object-Object Interaction**
 - **DragObject.cs**  
   Implements user-controlled transformations using mouse input. Features include:
   - Translation on XY and XZ planes.
@@ -39,7 +39,7 @@
   - Debug logging for selected colors.
 ---
 
-### **Task C: Animation**
+### **Animation**
 - **GlowingSphereMover.cs**  
   Animates a glowing sphere along a predefined path with oscillating height. Includes functionality for automatic and manual control:
   - Automatic circular animation with sinusoidal height variation.
@@ -51,7 +51,7 @@
 
 ---
 
-### **Task D: Illumination - Lighting and Materials**
+### **Illumination - Lighting and Materials**
 - **LightingShader.shader**  
   Implements a custom lighting equation with ambient, diffuse, and specular components. Computations are split between the vertex and fragment shaders:
   - **Vertex Shader:** Calculates light direction and normal transformations.
